@@ -22,20 +22,6 @@ https://roostermods.itch.io/john-deere-348-square-baler
 
 —--------------------------------------------------------------------------------------
 
-Diniz Farms - Farming Simulator Modding
-
-Demco QuickTach 250 Gallon Saddle Tanks (7000/7010 Series)-
-https://tysondiniz.me/demco-quicktach-250-gallon-saddle-tanks-7000-7010-series/
-
-John Deere 640/740 Loaders-
-https://tysondiniz.me/john-deere-640-740-loaders
-
-
-John Deere 7000/7010 Series-
-http://tysondiniz.me/fs22-john-deere-7000-7010-series
-
-—--------------------------------------------------------------------------------------
-
 Mobility 1000 Fertilizer spreader-
 https://mega.nz/file/UtMHFKhQ#T1ULuw0Ipmt4edunumuyxfTFDv8v1doC4Idbyykvjio
 
@@ -287,6 +273,9 @@ https://46mods.itch.io/fs22-rolabarrakes
 600f Header Pack- 
 https://46mods.itch.io/john-deere-600f-header-series
 
+New Holland small square baler package - 
+https://46mods.itch.io/new-holland-small-square-balers
+
 —--------------------------------------------------------------------------------------
 
 Toyota Hilux Invincible 2021 v1.0.0.0-
@@ -317,7 +306,8 @@ Lusty Tippers-
 https://www.mediafire.com/file/2phdk5pnsx6g9sy/FS22_Lusty_Tippers.zip/file
 
 —--------------------------------------------------------------------------------------
-Diniz Farms-
+
+Diniz Farms - Farming Simulator Modding
 
 7020 Series- 
 https://tysondiniz.me/john-deere-7020-series-north-american-spec/
@@ -352,7 +342,26 @@ https://tysondiniz.me/john-deere-643-and-843-corn-headers/
 640/740 Loader- 
 https://tysondiniz.me/john-deere-640-740-loaders/
 
+John Deere 455 3 Section Box Drill - 
+https://tysondiniz.me/fs22-john-deere-455-3-section-box-drill/
+
+Notch Thrower Rack Wagon - 
+http://tysondiniz.me/notch-thrower-rack-wagon/
+
+Demco QuickTach 250 Gallon Saddle Tanks (7000/7010 Series)-
+https://tysondiniz.me/demco-quicktach-250-gallon-saddle-tanks-7000-7010-series/
+
+John Deere 640/740 Loaders-
+https://tysondiniz.me/john-deere-640-740-loaders
+
+John Deere 7000/7010 Series-
+http://tysondiniz.me/fs22-john-deere-7000-7010-series
+
+Notch Thrower Rack Wagon -
+http://tysondiniz.me/notch-thrower-rack-wagon/
+
 —--------------------------------------------------------------------------------------
+
 Western Iowa Modding-
 
 Machine Shed- 
@@ -425,6 +434,7 @@ Dince Modding-
 https://sharemods.com/04dzk9s1nu5e/FS22_JohnDeere_6R_MediumFrame.zip.html?fbclid=IwAR2cVBPF21TVHcnO3kHndklq1CJWxVnQzCS24oh0JQX_ztNoyorpvYpqjL8
 
 —--------------------------------------------------------------------------------------
+
 4D Modding-
 
 Hesston Big Balers (New Holland)- 
