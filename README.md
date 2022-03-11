@@ -489,7 +489,8 @@ http://simgamealliance.com/index.php
 PVUncharted Pompies 1.5 UNZIP
 https://www.mediafire.com/file/8e5uj1hu8tn8ffc/PVUncharted_Pompies_1.5_UNZIP.zip/file
 
-SGA_MFS
+SGA mod folder switcher
+
 https://www.mediafire.com/file/d9bg4mn4kzof9z9/SGA_MFS.zip/file
 
 or
