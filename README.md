@@ -483,6 +483,12 @@ https://www.mediafire.com/file/8e5uj1hu8tn8ffc/PVUncharted_Pompies_1.5_UNZIP.zip
 SGA_MFS
 https://www.mediafire.com/file/d9bg4mn4kzof9z9/SGA_MFS.zip/file
 
+PV Wolf Creek Code is qnezzzzzzz
+
+Pompies Uncharted Code is r6rjjjlk2v
+
+Volcano Island Code is volfrtteee77
+
 —--------------------------------------------------------------------------------------
 
 JS Mapping-
