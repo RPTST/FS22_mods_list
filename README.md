@@ -467,17 +467,23 @@ https://github.com/Courseplay/Courseplay_FS22/releases/
 
 —--------------------------------------------------------------------------------------
 
-TerraFarm
+TerraFarm Mod
+
+TerraFarm -
 https://github.com/scfmod/FS22_TerraFarm/releases
 
 —--------------------------------------------------------------------------------------
 
-AutoDriv
+AutoDrive Mod
+
+AutoDriv -
 https://github.com/Stephan-S/FS22_AutoDrive/releases
 
 —--------------------------------------------------------------------------------------
 
 EnhancedVehicle Mod
+
+EVN -
 https://github.com/ZhooL/FS22_EnhancedVehicle/releases
 
 —--------------------------------------------------------------------------------------
