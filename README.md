@@ -147,6 +147,15 @@ https://mega.nz/file/GdEz1CIY#ztPlplmylQO7ft-R8rDruhWVqK2umX3T95Ctww2LmoQ
 EMR Ram Offroad-
 https://mega.nz/file/fFtCTTQT#vDpun3Trl96r8oNSw78iDNJH6b3UM6XvHGWo4Lmyhzs
 
+Elk Mtn. Wyoming Map
+
+https://mega.nz/file/eYsRFSJQ#d10EMQoNTB7MrcwIAcBR32Au9w3U9_Audctej7it6FI
+
+Building pack
+
+https://mega.nz/file/KctQCKwJ#ShcyvA7Rakm1AkWN1nGuYbg0ufp99hFVwMtLrVTxoKg
+
+
 —--------------------------------------------------------------------------------------
 
 Gamer Designs-
