@@ -522,6 +522,8 @@ Pompies Uncharted Code is r6rjjjlk2v
 
 Volcano Island Code is volfrtteee77
 
+BC Acres Code is mtrlgg159x
+
 —--------------------------------------------------------------------------------------
 
 JS Mapping-
