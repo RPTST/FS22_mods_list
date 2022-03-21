@@ -8,6 +8,9 @@ Agrotron Modding
 
 https://agrotron-modding.itch.io/
 
+GMC VANDURA STORIES 83 - 
+https://fs22.com/farming-simulator-22-mods/vehicles/gmc-vandura-stories-83-v1-0/
+
 —--------------------------------------------------------------------------------------
 
 The Squads 
