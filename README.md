@@ -4,12 +4,31 @@ FS22_mods_list
 
 —--------------------------------------------------------------------------------------
 
-Agrotron Modding
+Agrotron Modding- https://www.facebook.com/agrotronmodding/
 
 https://agrotron-modding.itch.io/
 
-GMC VANDURA STORIES 83 - 
-https://fs22.com/farming-simulator-22-mods/vehicles/gmc-vandura-stories-83-v1-0/
+ModHub: https://farming-simulator.com/mods.php?lang=en&country=us&title=fs2022&filter=org&org_id=198510&page=0
+
+modhub.us: https://www.modhub.us/user/Crownzilla
+
+kingsmods: https://www.kingmods.net/en/profile/crownzilla
+
+GMC VANDURA STORIES 83: https://fs22.com/farming-simulator-22-mods/vehicles/gmc-vandura-stories-83-v1-0/
+
+Chevrolet Caprice: https://modsbase.com/jnygzdfiiwox/FS22_Caprice.zip.html
+
+International Loadstar 1600 Flatbed: https://modsbase.com/ke3xrau34t8s/FS22_InternationalLoadstar1600_Flatbed.zip.html
+
+Ford C600 Flatbed: https://modsbase.com/efcxjbar7b9v/FS22_Ford_C600_1957_Flatbed.zip.html
+
+Chevrolet C70 Grain: https://modsbase.com/5atsaa1ujvsk/FS22_ChevyC70_Grain.zip.html
+
+Ford C600 Grain: https://modsbase.com/2aovz8684p8y/FS22_Ford_C600_1957_Grain.zip.html
+
+International Loadstar 1600 Grain: https://modsbase.com/bdoz2l9tpcr6/FS22_InternationalLoadstar1600_Grain.zip.html
+
+International Loadstar 1600 Tanker:  https://modsbase.com/0fto651r5u3w/FS22_InternationalLoadstar1600_Tanker.zip.html
 
 —--------------------------------------------------------------------------------------
 
