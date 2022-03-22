@@ -4,7 +4,7 @@ FS22_mods_list
 
 —--------------------------------------------------------------------------------------
 
-Agrotron Modding- https://www.facebook.com/agrotronmodding/
+Agrotron Modding - https://www.facebook.com/agrotronmodding/
 
 https://agrotron-modding.itch.io/
 
@@ -32,6 +32,24 @@ International Loadstar 1600 Tanker:  https://modsbase.com/0fto651r5u3w/FS22_Inte
 
 —--------------------------------------------------------------------------------------
 
+Rafter E Modding 
+https://www.facebook.com/RafterEModding/
+
+Kinze 1050/850 carts -
+https://mega.nz/file/x5Y1WK4K#WUn5xKLT1Q3_8bTcYwLqosl2EJtm5vmoCBaAbXOn5xE
+
+—--------------------------------------------------------------------------------------
+
+MantridFS · Gamer 
+https://www.facebook.com/MantridFS/
+
+https://fs.mantrid.net/
+
+https://www.farming-simulator.com/mods.php?org_id=168260
+
+
+—--------------------------------------------------------------------------------------
+
 The Squads 
 
 8110-
@@ -39,7 +57,19 @@ https://wademitch.itch.io/ts8110
 
 —--------------------------------------------------------------------------------------
 
-RoosterMods
+Western Iowa Modding & Edits 
+https://www.facebook.com/WesternIowaModding/
+
+M&W Welding round bale trailer - 
+https://www.mediafire.com/file/uzlhye7ew7m98l9/FS22_awBaleTrailer.zip/file
+
+60x120 shed - 
+https://www.mediafire.com/file/palax0vdpuu0zqh/FS22_westernIowaShed.zip/file
+
+—--------------------------------------------------------------------------------------
+
+RoosterMods 
+https://www.facebook.com/Roostermods/
 
 John Deere 825 Row-Crop Cultivator-
 https://roostermods.itch.io/john-deere-825-row-crop-cultivator-fs22
@@ -216,6 +246,12 @@ https://www.facebook.com/SkywalkerFarms/
 
 https://skywalker-farms.itch.io/
 
+Artex 3606-8 by RAND0MSparks - 
+https://mega.nz/file/CxRjFAIQ#eo1o5RD0Z5gutV86PCLhsiW-vwY2Tm4EqHkVsgofBCU
+
+Kuhn SR314 Wheel Rake by Giants Software - 
+https://mega.nz/file/ulBhXITY#wFN6YKB1XyHWON427Xk8uK2DpT-Z-aoDz_pHIf1t-pM
+
 —--------------------------------------------------------------------------------------
 
 jclsfarmequipment
@@ -223,6 +259,17 @@ https://www.facebook.com/JCLFarming/
 
 IH flail shredder- 
 https://jclsfarmequipment.itch.io/international-60-flail-shredder
+
+—--------------------------------------------------------------------------------------
+
+RAND0Msparks 
+https://www.facebook.com/rand0msparks/
+
+JetCo_Hopper - 
+https://mega.nz/file/sg5z2SxL#OfBIGW3F0rygsxdkhATFnL2VgXT73W6DSabgtahV-Wg
+
+Aulick Aluminator -
+https://mega.nz/file/MwpWzIYb#n62aLM_-_2qsnkqYI8_xjSsjL8wnLiwZ_dosCE3LJYg
 
 —--------------------------------------------------------------------------------------
 
@@ -259,7 +306,7 @@ https://mega.nz/file/fA4GDYAS#M8HRHPbRsHjXl1l9QKs0ZJEPyPcqqjwkw4aNPtvMRec
 DEMCO 22 Series Grain Carts
 https://mega.nz/file/jNw3VSpI#gvLf6tU3tHIeLQAf-FLNSUIHGACnhboOo6RMUBZiOwA
 
-𝗝𝗼𝗵𝗻 𝗗𝗲𝗲𝗿𝗲 𝟮𝟲𝟴𝟬𝗛 𝗛𝗶𝗴𝗵-𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗗𝗶𝘀𝗸
+𝗝𝗼𝗵𝗻 𝗗𝗲𝗲𝗿𝗲 𝟮𝟲𝟴𝟬𝗛 𝗛𝗶𝗴𝗵-𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗗𝗶𝘀𝗸 - 
 https://mega.nz/file/mIYjlaSS#lV4R5Yoyn-YSaYPYHwnU22O2-dFdLTBJBaJc2AAq0PQ
 
 Tiger-Mate 255 Field Cultivator 60"
@@ -425,7 +472,8 @@ https://www.mediafire.com/file/vhuu1wplh4gwvgi/FS22_BrillionPulviMulcher.zip/fil
 
 —--------------------------------------------------------------------------------------
 
-JMF Modding-
+JMF Modding 
+https://www.facebook.com/JMF-Modding-100183045255262/
 
 TieStall Dairy barn- 
 https://jmf-modding.itch.io/jmf-dairy-barn
@@ -441,13 +489,37 @@ https://jmf-modding.itch.io/uebler-812-and-agrimetal-530
 
 —--------------------------------------------------------------------------------------
 
+Bsl Modding and Mapping
+https://www.facebook.com/bslmodding
+
+https://bslmodding.itch.io/
+
+—--------------------------------------------------------------------------------------
+
+OS Farms Mapping and Modding 
+https://www.facebook.com/OS-Farms-Mapping-and-Modding-114847023493011
+
+Tipmte SL foot hopper bottom 42' - https://mega.nz/file/Zx52hSiR#N4-Uv1higFlCZJYWGvr-MEHnr0t7CeAEuqpO3MJiofc
+Tipmte SL foot hopper bottom 50' - https://mega.nz/file/8g4mUKza#4cQTSdLpZBPA0o0Gf4GDXKcB3LXU0KpR2Sf0lZJ1rlg
+
+—--------------------------------------------------------------------------------------
+
 Scooter’s Workbench-
+https://www.facebook.com/scootersworkbench
 
 Westfield Auger- 
 https://www.mediafire.com/file/qb7j1l1ktwoyl86/FS22_Westfield_W130_71.zip/file?fbclid=IwAR2_rAKE50opNEbiVypb1z8J4U3uGF6PhoUeahv3xUD2rSRqM-bzURYDgZo
 
 IH Moldboard Plow- 
 https://www.mediafire.com/file/g7z4u6tlsftzzi0/FS22_IH_720_Plow.zip/file?fbclid=IwAR3TeFU4ChwS2t2zEPoQYRIO84Cg9j6VZmjYR3r2ooyp2pzJF_Lhvs5kBOk
+
+—--------------------------------------------------------------------------------------
+
+Diesel Division Customs 
+https://www.facebook.com/DieselDivisionCustoms/
+
+1970 Ford F250 SingleCab Longbed - 
+https://mod-network.com/fs22-mods/detail/6329?fbclid=IwAR0HXgLD5Tlg2VEEokNA8QFPriS_96Tl5b7n7zRAKCe61jhecafv1Toitg4
 
 —--------------------------------------------------------------------------------------
 
@@ -492,6 +564,15 @@ T&A Modding-
 https://www.mediafire.com/file/ah44q7r98pff736/FS22_JD_560M.zip/file?fbclid=IwAR0GvITEjTu82xu0aQjRpcgtRS8qia3IqWriGTTgkI3GZ-Ld_M91Fm-fLB4
 
 —--------------------------------------------------------------------------------------
+
+Large H Mapping 
+https://www.facebook.com/LargeHModding
+
+
+https://largehmapping.itch.io/
+
+—--------------------------------------------------------------------------------------
+
 
 Crooked Creek-
 
