@@ -4,6 +4,14 @@ FS22_mods_list
 
 —--------------------------------------------------------------------------------------
 
+whiskey sierra modding 
+
+
+Peterbilt 352 Cabover - 
+https://whiskeysierramodding.com/peterbilt-352-cabover/
+
+—--------------------------------------------------------------------------------------
+
 Agrotron Modding - https://www.facebook.com/agrotronmodding/
 
 https://agrotron-modding.itch.io/
@@ -165,13 +173,43 @@ https://www.facebook.com/Hocks23-Fs-Mapping-136722456931005/
 
 —--------------------------------------------------------------------------------------
 
-Trailerpark Farms
+Trailerpark Farms 
+https://www.facebook.com/TrailerParkFarms/
 
 90x200 Shed Pack-
 https://trailerparkfarms.itch.io/fs-22-90x200-shed-pack
 
 72x150 Shed Pack-
 https://trailerparkfarms.itch.io/fs-22-72x150-shed-pack
+
+58x50 Shop -
+Pending
+
+ScaleHouse - 
+Pending
+
+—--------------------------------------------------------------------------------------
+
+Maple Creek Modding And Media 
+https://www.facebook.com/MapleCreekMM/
+
+—--------------------------------------------------------------------------------------
+
+Central Alberta Modding & Mapping 
+https://www.facebook.com/Central-Alberta-Modding-Mapping-102360981839479/
+
+—--------------------------------------------------------------------------------------
+
+T&A Modding 
+https://www.facebook.com/tamodding1/
+
+John Deere 560M round baler - 
+https://www.mediafire.com/file/ah44q7r98pff736/FS22_JD_560M.zip/file
+
+—--------------------------------------------------------------------------------------
+
+fs-screenshot 
+https://fs-screenshots.itch.io/
 
 —--------------------------------------------------------------------------------------
 
