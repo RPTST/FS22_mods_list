@@ -86,7 +86,7 @@ FS22_Terex_Finlay_Crusher_FSM
 FS22_Hitachi_310W_FSM
 FS22_Goldhofel_2axle_FSM
 FS22_Dossan_80t_FSm
-FS22_Cat_D6K2_FSM
+FS22_Cat_D6K2_FSM - 
 
 https://mod-network.com/fs22-mods/detail/3702
 
