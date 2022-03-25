@@ -83,6 +83,12 @@ https://drive.google.com/file/d/17uBjdRT8cS23LDgfqRwI2SOh9e4gqaMR/view?fbclid=Iw
 Cat 6015B excavator
 https://mod-network.com/fs22-mods/detail/6429/CAT-6015B-%2B-%25-Axle-Low-Loader
 
+Mack Anthem
+https://www.modhub.us/farming-simulator-22-mods/mack-anthem-v1000
+
+ Bomag Roller Compactor
+ https://mod-network.com/fs22-mods/detail/4837
+
 —--------------------------------------------------------------------------------------
 
 Glen Modding
