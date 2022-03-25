@@ -50,8 +50,38 @@ https://www.youtube.com/c/FSMiner
 FS Miner's Mod Pack - 
 https://mod-network.com/fs22-mods/detail/3702
 
-TerraFarm 4.0 (Beta) And FSM Terramods
+TerraFarm 4.0 (Beta) And FSM Terramods - 
 https://mod-network.com/fs22-mods/detail/5814/TerraFarm-And-FSM-Terramods
+
+Kenworth T900 Legend - 
+https://www.modhub.us/farming-simulator-22-mods/kenworth-t900-legend-v1021
+
+The Terex-Finlay (Two Materials Crusher) - 
+https://modsbase.com/atme1oxmx6el/FS22_Terex_Finlay_Crusher_V2.zip.html
+
+CAT 385C Excavaror - 
+https://mod-network.com/fs22-mods/detail/6072/CAT-385C-Excavaror
+
+Smith Co Dolly - 
+https://modsbase.com/2qq2n4l8uq10/FS22_SmithCoDolly_FSM.zip.html
+
+TrailKing Belly Dump - 
+https://www.mediafire.com/file/mbt9tpd3s6roee4/FS22_TrailKing_Belly_Dump.zip/file?fbclid=IwAR164EN-Y6nORey25a0Xpr4ZGwbWfqbAVc_pyq7Dx4p6Gz7zecl7KkNzBGE
+
+Kenworth W900 Custome
+https://www.modhub.us/farming-simulator-22-mods/kenworth-w900-custom-v2000
+
+Kenworth K200 - 
+https://www.mediafire.com/file/53oif6yiylzagt2/FS22_Kenworth_K200.zip/file?fbclid=IwAR1OYobEJj73ZrFSnpYfDw4m5HB1I3sM6i7rjbRw3aVIXOnyegARWkZ0Ous
+
+Download The Cozad 85T - 
+https://server1.mod-network.net/download_v2.php?mod_file="621b41fcddae4___FS22_4mr_85tcozad.zip"&mod_name="FS22_4mr_85tcozad.zip"
+
+FS Miner / RGC Yukon Valley Mods - 
+https://drive.google.com/file/d/17uBjdRT8cS23LDgfqRwI2SOh9e4gqaMR/view?fbclid=IwAR2QlL5Xb0XE1yyZ4Ye8bIaP0BKgs7Xl8c89IPs6QOQ_9-TKogMLBlC8Ks0
+
+Cat 6015B excavator
+https://mod-network.com/fs22-mods/detail/6429/CAT-6015B-%2B-%25-Axle-Low-Loader
 
 —--------------------------------------------------------------------------------------
 
