@@ -4,6 +4,23 @@ FS22_mods_list
 
 —--------------------------------------------------------------------------------------
 
+Realistic Gaming Crew 
+https://www.facebook.com/RealisticGamingCrew/
+
+Get updates and mods on the discord 
+https://discord.com/invite/y7r4EPVHa8
+
+Yukon Valley 1.0
+https://drive.google.com/file/d/17CXnlGYsNWBmN9axZpp9a-isE5ACR0jb/view
+
+RGC_Yukon_Mods
+https://drive.google.com/file/d/17uBjdRT8cS23LDgfqRwI2SOh9e4gqaMR/view
+
+Yukon Valley 2.0
+https://drive.google.com/file/d/17CXnlGYsNWBmN9axZpp9a-isE5ACR0jb/view
+
+—--------------------------------------------------------------------------------------
+
 schaben-modding 
 https://schaben-modding.itch.io/
 
