@@ -60,7 +60,7 @@ https://riverbottomcustomfarming.itch.io/gsi-silo-system
 
 —--------------------------------------------------------------------------------------
 
-modding welt
+Modding Welt
 https://www.modding-welt.com
 
 Pennsylvania Map (A small US map of Pennsylvania. amish country)
@@ -95,11 +95,15 @@ https://drive.google.com/file/d/17uBjdRT8cS23LDgfqRwI2SOh9e4gqaMR/view
 —--------------------------------------------------------------------------------------
 
 schaben-modding 
+https://www.facebook.com/SchabenModding
+
 https://schaben-modding.itch.io/
 
 —--------------------------------------------------------------------------------------
 
 FS Miner
+https://www.facebook.com/FsMinerYTB/
+
 https://www.youtube.com/c/FSMiner
 
 FS Miner's Mod Pack - 
@@ -149,6 +153,7 @@ https://www.modhub.us/farming-simulator-22-mods/mack-anthem-v1000
 Glen Modding
 https://www.facebook.com/people/Glen006-Modding/100063643657757/
 
+fs19 / fs22 mods
 https://www.mediafire.com/folder/b4yuq7y2nrp57/FS19+Public+Mods
 
 
@@ -162,7 +167,8 @@ https://whiskeysierramodding.com/peterbilt-352-cabover/
 
 —--------------------------------------------------------------------------------------
 
-Agrotron Modding - https://www.facebook.com/agrotronmodding/
+Agrotron Modding 
+https://www.facebook.com/agrotronmodding/
 
 https://agrotron-modding.itch.io/
 
@@ -255,7 +261,8 @@ https://www.mediafire.com/file/harzh55zzsnk13a/FS22_JohnDeere_50_55_and_60Series
 
 —--------------------------------------------------------------------------------------
 
-Tired Iron Modding
+Tired Iron Modding 
+https://www.facebook.com/TiredIronModding
 
 Killbros Gravity Wagons- 
 https://tired-iron-modding.itch.io/killbros-gravity-wagons
@@ -286,15 +293,22 @@ https://tired-iron-modding.itch.io/addons-to-john-deere-soundguards
 
 —--------------------------------------------------------------------------------------
 
-JCLsFarmEquipment-
+JCLsFarmEquipment 
+https://www.facebook.com/JCLFarming
+
 https://jclsfarmequipment.itch.io/
 
 International Harvester 06 Tractor pack-
 https://jclsfarmequipment.itch.io/ih-06-tractors
 
+IH flail shredder- 
+https://jclsfarmequipment.itch.io/international-60-flail-shredder
+
 —--------------------------------------------------------------------------------------
 
-46 Mods-
+46 Mods 
+https://www.facebook.com/46mods/ 
+
 https://46mods.itch.io/
 
 John Deere 600F Header series-
@@ -317,9 +331,10 @@ https://www.mediafire.com/file/80t1cmm6lzbmbly/HAM22_PacesetterLowbed.zip/file
 —--------------------------------------------------------------------------------------
 
 Hocks23-Fs-Mapping
+https://www.facebook.com/Hocks23-Fs-Mapping-136722456931005
 
 Southern Cross Station Map-
-https://www.facebook.com/Hocks23-Fs-Mapping-136722456931005/
+Pending release on modhub
 
 —--------------------------------------------------------------------------------------
 
@@ -364,13 +379,15 @@ https://fs-screenshots.itch.io/
 —--------------------------------------------------------------------------------------
 
 PMC 
+https://www.farming-simulator.org
 
 Maps-
 https://www.farming-simulator.org/22/pmc-terrains.php
 
 —--------------------------------------------------------------------------------------
 
-Elk Mtn. 
+Elk Mountain Modding
+https://www.facebook.com/Elk-Mountain-Modding-106113867673829/
 
 Ranch pack version 1.2-
 https://mega.nz/file/rZNx0IST#a6PvcYCodzlUPYb7iFJXzQGniRCIx4QRzkTY9J-HjnE
@@ -381,13 +398,13 @@ https://mega.nz/file/GdEz1CIY#ztPlplmylQO7ft-R8rDruhWVqK2umX3T95Ctww2LmoQ
 EMR Ram Offroad-
 https://mega.nz/file/fFtCTTQT#vDpun3Trl96r8oNSw78iDNJH6b3UM6XvHGWo4Lmyhzs
 
-Map
+Map info
 https://www.facebook.com/106113867673829/videos/3158506447717426/
 
-Elk Mtn. Wyoming Map
+Elk Mountain Wyoming Map
 https://mega.nz/file/eYsRFSJQ#d10EMQoNTB7MrcwIAcBR32Au9w3U9_Audctej7it6FI
 
-Building pack
+Elk Mountain Building pack
 https://mega.nz/file/KctQCKwJ#ShcyvA7Rakm1AkWN1nGuYbg0ufp99hFVwMtLrVTxoKg
 
 
@@ -439,14 +456,6 @@ https://mega.nz/file/CxRjFAIQ#eo1o5RD0Z5gutV86PCLhsiW-vwY2Tm4EqHkVsgofBCU
 
 Kuhn SR314 Wheel Rake by Giants Software - 
 https://mega.nz/file/ulBhXITY#wFN6YKB1XyHWON427Xk8uK2DpT-Z-aoDz_pHIf1t-pM
-
-—--------------------------------------------------------------------------------------
-
-jclsfarmequipment
-https://www.facebook.com/JCLFarming/
-
-IH flail shredder- 
-https://jclsfarmequipment.itch.io/international-60-flail-shredder
 
 —--------------------------------------------------------------------------------------
 
@@ -511,7 +520,7 @@ https://mega.nz/file/HAoGkB6B#UAwWcNKuJMG1iuCSTUchLxc7X_MP0cWdeeY64t8oago
 
 —--------------------------------------------------------------------------------------
 
-wademitch Modding And Edits-
+wademitch Modding And Edits -
 https://www.facebook.com/wademitchmodding/?__cft__[0]=AZXtrBWu1xGSadJh89dnFe424nqw3HzH6BnWvhV1igdJPm0D3e3VhwDIiZ5uCvdhKKKfW5SpWq-pT7EddvlAOGdaC3BVuTLXCyExBwI6FwWpUg6OA2C1Xw2mLb22HlHbT70n0j0qPNnSRk8_QwnFLpZw5tLy47CHP73aD_7ALkG_oMMODuKfC7NEEMFAQ-I6a2UEGDCMYS5Kt3Di6SoARJnj0hnheef8WIIiU57UANb-Kw&__tn__=kK-y-R
 
 https://wademitch.itch.io/
