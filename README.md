@@ -2,6 +2,58 @@
 FS22_mods_list
 
 
+—--------------------------------------------------------------------------------------
+
+Forward Agricultural 
+https://www.facebook.com/groups/forwardagmodding
+
+https://forward-agricultural.itch.io
+
+HAC 5000-T Anhydrous Caddy - 
+https://forward-agricultural.itch.io/hac-5000-t
+
+Seed Hawk 980 Air Cart with Additional Systems - 
+https://forward-agricultural.itch.io/fwdseedhawk980
+
+Seed Hawk XL Toolbar (84ft) with Additional Systems - 
+https://forward-agricultural.itch.io/fwdseedhawk84ft
+
+—--------------------------------------------------------------------------------------
+
+mb-farm 
+https://mb-farms.itch.io/
+
+Westby, WI (4X Map)
+https://mb-farms.itch.io/fs22-westby-wi-4x-map
+
+—--------------------------------------------------------------------------------------
+
+central ohio modding
+
+Deer Creek V2
+https://central-ohio-modding.itch.io/fs22-deer-creek
+
+—--------------------------------------------------------------------------------------
+
+jiggin4walleye 
+https://jiggin4walleye.itch.io/
+
+—--------------------------------------------------------------------------------------
+
+Riverbottom Custom Farming 
+https://riverbottomcustomfarming.itch.io
+
+mix shed
+https://riverbottomcustomfarming.itch.io/mix-shed
+
+mega silo dry corn production
+https://riverbottomcustomfarming.itch.io/mega-silo-dry-corn-production
+
+GSI Dry Corn Production
+https://riverbottomcustomfarming.itch.io/gsi-dry-corn-production-placeable
+
+GSI Silo System
+https://riverbottomcustomfarming.itch.io/gsi-silo-system
 
 —--------------------------------------------------------------------------------------
 
@@ -427,6 +479,9 @@ https://csl-modding.itch.io/freightliner-cascadia
 
 Freightliner FLD
 https://csl-modding.itch.io/freightliner-fld
+
+Diamond Reo Giant 
+https://csl-modding.itch.io/diamond-reo-giant
 
 —--------------------------------------------------------------------------------------
 
