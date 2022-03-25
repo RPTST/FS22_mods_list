@@ -448,6 +448,9 @@ https://mega.nz/file/fF4wWYaA#slkU9PeqkJkJZeY3STbbIfOmtJtphOEz24YIzt8Pss0
 Landoll 845-AG Hauloll Series
 https://mega.nz/file/eMpWUL4L#pcLozmcSnir7S7IJplElC4nEpMw2c4RoR2XNcXsgca4
 
+𝗝𝗼𝗵𝗻 𝗗𝗲𝗲𝗿𝗲 𝟴𝗥 𝗦𝗲𝗿𝗶𝗲𝘀 
+https://mega.nz/file/HAoGkB6B#UAwWcNKuJMG1iuCSTUchLxc7X_MP0cWdeeY64t8oago
+
 —--------------------------------------------------------------------------------------
 
 wademitch Modding And Edits-
