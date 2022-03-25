@@ -8,7 +8,13 @@ Realistic Gaming Crew
 https://www.facebook.com/RealisticGamingCrew/
 
 Get updates and mods on the discord 
+
 https://discord.com/invite/y7r4EPVHa8
+
+or 
+
+https://discord.com/invite/HNXTKXP
+
 
 Yukon Valley 1.0
 https://drive.google.com/file/d/17CXnlGYsNWBmN9axZpp9a-isE5ACR0jb/view
