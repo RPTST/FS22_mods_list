@@ -25,8 +25,16 @@ https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=233717&title
 DJ Modding 
 https://djmodding.itch.io/
 
+https://mod-network.com/p/DJModding
+
+
 Green Valley Nebraska (PC Only Map 4X) - 
 https://djmodding.itch.io/fs22-green-valley-nebraska-4x
+
+or
+
+https://mod-network.com/fs22-mods/detail/7708/Green+Valley+Nebraska+4X
+
 
 —--------------------------------------------------------------------------------------
 
