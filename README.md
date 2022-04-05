@@ -4,6 +4,12 @@ FS22_mods_list
 
 
 —--------------------------------------------------------------------------------------
+Diesel Division Customs 
+https://www.facebook.com/DieselDivisionCustoms/
+
+https://mod-network.com/p/Diesel%20Division%20Customs
+
+—--------------------------------------------------------------------------------------
 
 Asylum Modding 
 https://asylummodding.itch.io/
